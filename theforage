@@ -1,0 +1,1076 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<link rel="preload" href="https://www.theforage.com/blog/wp-content/astra-local-fonts/aleo/c4m61nF8G8_s6gHhIOX0IYBo_KJ3GlP6Fo8.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://www.theforage.com/blog/wp-content/astra-local-fonts/dm-sans/rP2Cp2ywxg089UriASitCBimCw.woff2" as="font" type="font/woff2" crossorigin><meta name='robots' content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.11 (Yoast SEO v20.11) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>What Is Computer Programming? - Forage</title>
+	<meta name="description" content="Computer programming involves designing, developing, and implementing software applications by writing and optimizing code. Learn more!" />
+	<link rel="canonical" href="https://www.theforage.com/blog/careers/what-is-computer-programming" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="What Is Computer Programming?" />
+	<meta property="og:description" content="Computer programming involves designing, developing, and implementing software applications by writing and optimizing code. Learn more!" />
+	<meta property="og:url" content="https://www.theforage.com/blog/careers/what-is-computer-programming" />
+	<meta property="og:site_name" content="Forage" />
+	<meta property="article:publisher" content="https://www.facebook.com/theforage1" />
+	<meta property="article:published_time" content="2023-04-11T15:30:00+00:00" />
+	<meta property="article:modified_time" content="2023-04-11T11:30:00-04:00" />
+	<meta property="og:image" content="https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg" />
+	<meta property="og:image:width" content="2000" />
+	<meta property="og:image:height" content="1333" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Robin Madell" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@theforage_" />
+	<meta name="twitter:site" content="@theforage_" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Robin Madell" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="9 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#article","isPartOf":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming"},"author":{"name":"Robin Madell","@id":"https://www.theforage.com/blog/#/schema/person/8f82067b4a8864f3cc1bd15f7e3f9683"},"headline":"What Is Computer Programming?","datePublished":"2023-04-11T11:30:00-04:00","dateModified":"2023-04-11T11:30:00-04:00","mainEntityOfPage":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming"},"wordCount":1919,"publisher":{"@id":"https://www.theforage.com/blog/#organization"},"image":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#primaryimage"},"thumbnailUrl":"https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg","articleSection":["Careers"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.theforage.com/blog/careers/what-is-computer-programming","url":"https://www.theforage.com/blog/careers/what-is-computer-programming","name":"What Is Computer Programming? - Forage","isPartOf":{"@id":"https://www.theforage.com/blog/#website"},"primaryImageOfPage":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#primaryimage"},"image":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#primaryimage"},"thumbnailUrl":"https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg","datePublished":"2023-04-11T11:30:00-04:00","dateModified":"2023-04-11T11:30:00-04:00","description":"Computer programming involves designing, developing, and implementing software applications by writing and optimizing code. Learn more!","breadcrumb":{"@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.theforage.com/blog/careers/what-is-computer-programming"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#primaryimage","url":"https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg","contentUrl":"https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg","width":2000,"height":1333,"caption":"What is computer programming?"},{"@type":"BreadcrumbList","@id":"https://www.theforage.com/blog/careers/what-is-computer-programming#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.theforage.com/blog/"},{"@type":"ListItem","position":2,"name":"Careers","item":"https://www.theforage.com/blog/careers"},{"@type":"ListItem","position":3,"name":"What Is Computer Programming?"}]},{"@type":"WebSite","@id":"https://www.theforage.com/blog/#website","url":"https://www.theforage.com/blog/","name":"Forage","description":"Virtual job simulations produced by and for the world’s largest employers","publisher":{"@id":"https://www.theforage.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.theforage.com/blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.theforage.com/blog/#organization","name":"Forage","url":"https://www.theforage.com/blog/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.theforage.com/blog/#/schema/logo/image/","url":"https://www.theforage.com/blog/wp-content/uploads/2023/04/Navy-Stacked-Logo.jpg","contentUrl":"https://www.theforage.com/blog/wp-content/uploads/2023/04/Navy-Stacked-Logo.jpg","width":878,"height":893,"caption":"Forage"},"image":{"@id":"https://www.theforage.com/blog/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/theforage1/","https://twitter.com/theforage_","https://www.instagram.com/theforage_/","https://www.linkedin.com/school/theforage/"]},{"@type":"Person","@id":"https://www.theforage.com/blog/#/schema/person/8f82067b4a8864f3cc1bd15f7e3f9683","name":"Robin Madell","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.theforage.com/blog/#/schema/person/image/","url":"https://www.theforage.com/blog/wp-content/uploads/2022/10/Madell-photo-96x96.jpg","contentUrl":"https://www.theforage.com/blog/wp-content/uploads/2022/10/Madell-photo-96x96.jpg","caption":"Robin Madell"},"description":"Robin Madell has spent over two decades as a corporate writer, business journalist, and communications consultant in New York, San Francisco, and Los Angeles serving as a copywriter, speechwriter, and ghostwriter for executives, entrepreneurs, and thought leaders across diverse industries. Her work has been published in U.S. News &amp; World Report, Business Insider, Harvard Business Review, Fortune, Forbes, and many other business publications.","url":"https://www.theforage.com/blog/author/robin-madell"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href="//kit.fontawesome.com" />
+<link rel="alternate" type="application/rss+xml" title="Forage &raquo; Feed" href="https://www.theforage.com/blog/feed" />
+<link rel="alternate" type="application/rss+xml" title="Forage &raquo; Comments Feed" href="https://www.theforage.com/blog/comments/feed" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/theforage.wpengine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='genesis-blocks-style-css-css' href="https://www.theforage.com/blog/wp-content/plugins/genesis-blocks/dist/style-blocks.build.css?ver=1685776409" media='all' />
+<link rel='stylesheet' id='astra-theme-css-css' href="https://www.theforage.com/blog/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.0.2" media='all' />
+<style id='astra-theme-css-inline-css'>
+.ast-no-sidebar .entry-content .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-no-sidebar .entry-content .alignwide {margin-left: calc(-41vw + 50%);margin-right: calc(-41vw + 50%);max-width: unset;width: unset;}.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-no-sidebar .entry-content .wp-block-column .alignwide{width: 100%;margin-left: auto;margin-right: auto;}.wp-block-gallery,.blocks-gallery-grid {margin: 0;}.wp-block-separator {max-width: 100px;}.wp-block-separator.is-style-wide,.wp-block-separator.is-style-dots {max-width: none;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 10px;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 10px;}@media (max-width: 782px) {.entry-content .wp-block-columns .wp-block-column {flex-basis: 100%;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 0;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 0;}}body .entry-content .wp-block-latest-posts {margin-left: 0;}body .entry-content .wp-block-latest-posts li {list-style: none;}.ast-no-sidebar .ast-container .entry-content .wp-block-latest-posts {margin-left: 0;}.ast-header-break-point .entry-content .alignwide {margin-left: auto;margin-right: auto;}.entry-content .blocks-gallery-item img {margin-bottom: auto;}.wp-block-pullquote {border-top: 4px solid #555d66;border-bottom: 4px solid #555d66;color: #40464d;}:root{--ast-container-default-xlg-padding:6.67em;--ast-container-default-lg-padding:5.67em;--ast-container-default-slg-padding:4.34em;--ast-container-default-md-padding:3.34em;--ast-container-default-sm-padding:6.67em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.4em;--ast-code-block-background:#EEEEEE;--ast-comment-inputs-background:#FAFAFA;}html{font-size:106.25%;}a,.page-title{color:var(--ast-global-color-0);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'DM Sans',sans-serif;font-weight:400;font-size:17px;font-size:1rem;}blockquote{color:var(--ast-global-color-8);}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:'Aleo',serif;font-weight:normal;}.site-title{font-size:35px;font-size:2.05882352941rem;display:none;}header .custom-logo-link img{max-width:120px;}.astra-logo-svg{width:120px;}.site-header .site-description{font-size:15px;font-size:0.882352941176rem;display:none;}.entry-title{font-size:30px;font-size:1.76470588235rem;}h1,.entry-content h1{font-size:48px;font-size:2.82352941176rem;font-weight:normal;font-family:'Aleo',serif;line-height:1.3em;}h2,.entry-content h2{font-size:38px;font-size:2.23529411765rem;font-weight:normal;font-family:'Aleo',serif;line-height:1.3em;}h3,.entry-content h3{font-size:30px;font-size:1.76470588235rem;font-weight:normal;font-family:'Aleo',serif;line-height:1.3em;}h4,.entry-content h4{font-size:24px;font-size:1.41176470588rem;line-height:1.3em;font-weight:normal;font-family:'Aleo',serif;}h5,.entry-content h5{font-size:21px;font-size:1.23529411765rem;line-height:1.3em;font-weight:normal;font-family:'Aleo',serif;}h6,.entry-content h6{font-size:17px;font-size:1rem;line-height:1.3em;font-weight:normal;font-family:'Aleo',serif;}::selection{background-color:var(--ast-global-color-2);color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-8);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-0);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-0);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-0);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-0);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-0);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-0);}.ast-archive-title{color:var(--ast-global-color-8);}.widget-title{font-size:24px;font-size:1.41176470588rem;color:var(--ast-global-color-8);}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:17px;font-size:1rem;}.ast-single-post .entry-content a,.ast-comment-content a:not(.ast-comment-edit-reply-wrap a){text-decoration:underline;}.ast-single-post .wp-block-button .wp-block-button__link,.ast-single-post .elementor-button-wrapper .elementor-button,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .wp-block-uagb-buttons a,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .uagb-taxomony-box a,.ast-single-post .entry-content .woocommerce a,.entry-content .wp-block-latest-posts > li > a,.ast-single-post .entry-content .wp-block-file__button{text-decoration:none;}.ast-logo-title-inline .site-logo-img{padding-right:1em;}.site-logo-img img{ transition:all 0.2s linear;}#secondary {margin: 4em 0 2.5em;word-break: break-word;line-height: 2;}#secondary li {margin-bottom: 0.25em;}#secondary li:last-child {margin-bottom: 0;}@media (max-width: 768px) {.js_active .ast-plain-container.ast-single-post #secondary {margin-top: 1.5em;}}.ast-separate-container.ast-two-container #secondary .widget {background-color: #fff;padding: 2em;margin-bottom: 2em;}@media (min-width: 993px) {.ast-left-sidebar #secondary {padding-right: 60px;}.ast-right-sidebar #secondary {padding-left: 60px;}}@media (max-width: 993px) {.ast-right-sidebar #secondary {padding-left: 30px;}.ast-left-sidebar #secondary {padding-right: 30px;}}@media (max-width:921px){#ast-desktop-header{display:none;}}@media (min-width:921px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}.ast-separate-container.ast-single-post.ast-right-sidebar #primary,.ast-separate-container.ast-single-post.ast-left-sidebar #primary,.ast-separate-container.ast-single-post #primary,.ast-plain-container.ast-single-post #primary,.ast-narrow-container.ast-single-post #primary{margin-top:0px;margin-bottom:0px;}.ast-left-sidebar.ast-single-post #primary,.ast-right-sidebar.ast-single-post #primary,.ast-separate-container.ast-single-post.ast-right-sidebar #primary,.ast-separate-container.ast-single-post.ast-left-sidebar #primary,.ast-separate-container.ast-single-post #primary,.ast-narrow-container.ast-single-post #primary{padding-left:0px;padding-right:0px;}.ast-separate-container #primary,.ast-narrow-container #primary{padding-top:0px;}.ast-separate-container #primary,.ast-narrow-container #primary{padding-bottom:0px;}@media (min-width:1200px){.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}}.wp-block-columns{margin-bottom:unset;}.wp-block-image.size-full{margin:2rem 0;}.wp-block-separator.has-background{padding:0;}.wp-block-gallery{margin-bottom:1.6em;}.wp-block-group{padding-top:4em;padding-bottom:4em;}.wp-block-group__inner-container .wp-block-columns:last-child,.wp-block-group__inner-container :last-child,.wp-block-table table{margin-bottom:0;}.blocks-gallery-grid{width:100%;}.wp-block-navigation-link__content{padding:5px 0;}.wp-block-group .wp-block-group .has-text-align-center,.wp-block-group .wp-block-column .has-text-align-center{max-width:100%;}.has-text-align-center{margin:0 auto;}@media (max-width:1200px){.wp-block-group{padding:3em;}.wp-block-group .wp-block-group{padding:1.5em;}.wp-block-columns,.wp-block-column{margin:1rem 0;}}@media (min-width:921px){.wp-block-columns .wp-block-group{padding:2em;}}@media (max-width:544px){.wp-block-cover-image .wp-block-cover__inner-container,.wp-block-cover .wp-block-cover__inner-container{width:unset;}.wp-block-cover,.wp-block-cover-image{padding:2em 0;}.wp-block-group,.wp-block-cover{padding:2em;}.wp-block-media-text__media img,.wp-block-media-text__media video{width:unset;max-width:100%;}.wp-block-media-text.has-background .wp-block-media-text__content{padding:1em;}}.wp-block-image.aligncenter{margin-left:auto;margin-right:auto;}.wp-block-table.aligncenter{margin-left:auto;margin-right:auto;}@media (min-width:544px){.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:0 8% 0 0;}.entry-content .wp-block-media-text .wp-block-media-text__content{padding:0 0 0 8%;}.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-left > *{margin:0;}}@media (max-width:544px){.entry-content .wp-block-media-text .wp-block-media-text__content{padding:8% 0;}.wp-block-media-text .wp-block-media-text__media img{width:auto;max-width:100%;}}.wp-block-button.is-style-outline .wp-block-button__link{border-color:var(--ast-global-color-2);}.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-2);}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-button.is-style-outline .wp-block-button__link:focus{color:transparent !important;}.post-page-numbers.current .page-link,.ast-pagination .page-numbers.current{color:#000000;border-color:var(--ast-global-color-2);background-color:var(--ast-global-color-2);border-radius:2px;}@media (min-width:544px){.entry-content > .alignleft{margin-right:20px;}.entry-content > .alignright{margin-left:20px;}}h1.widget-title{font-weight:normal;}h2.widget-title{font-weight:normal;}h3.widget-title{font-weight:normal;}@media (max-width:921px){.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary,.ast-page-builder-template #secondary{margin-top:1.5em;}}@media (max-width:921px){.ast-right-sidebar #primary{padding-right:0;}.ast-page-builder-template.ast-left-sidebar #secondary,.ast-page-builder-template.ast-right-sidebar #secondary{padding-right:20px;padding-left:20px;}.ast-right-sidebar #secondary,.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid var(--ast-border-color);}.ast-left-sidebar #primary{border-left:1px solid var(--ast-border-color);}.ast-right-sidebar #secondary{border-left:1px solid var(--ast-border-color);margin-left:-1px;}.ast-left-sidebar #secondary{border-right:1px solid var(--ast-border-color);margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}}.elementor-button-wrapper .elementor-button{border-style:solid;text-decoration:none;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:2px;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;}@media (max-width:921px){.elementor-button-wrapper .elementor-button.elementor-size-sm,.elementor-button-wrapper .elementor-button.elementor-size-xs,.elementor-button-wrapper .elementor-button.elementor-size-md,.elementor-button-wrapper .elementor-button.elementor-size-lg,.elementor-button-wrapper .elementor-button.elementor-size-xl,.elementor-button-wrapper .elementor-button{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.elementor-button-wrapper .elementor-button.elementor-size-sm,.elementor-button-wrapper .elementor-button.elementor-size-xs,.elementor-button-wrapper .elementor-button.elementor-size-md,.elementor-button-wrapper .elementor-button.elementor-size-lg,.elementor-button-wrapper .elementor-button.elementor-size-xl,.elementor-button-wrapper .elementor-button{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}.elementor-button-wrapper .elementor-button{border-color:var(--ast-global-color-2);background-color:var(--ast-global-color-2);}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:transparent;}.wp-block-button .wp-block-button__link ,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:#000000;}.elementor-button-wrapper .elementor-button{line-height:1em;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:transparent;}.elementor-widget-heading h1.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.3em;}.wp-block-button .wp-block-button__link{border-color:var(--ast-global-color-2);background-color:var(--ast-global-color-2);color:#000000;font-family:inherit;font-weight:inherit;line-height:1em;border-radius:2px;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;}@media (max-width:921px){.wp-block-button .wp-block-button__link{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.wp-block-button .wp-block-button__link{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#000000;border-color:var(--ast-global-color-2);background-color:var(--ast-global-color-2);border-radius:2px;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;font-family:inherit;font-weight:inherit;line-height:1em;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,body .wp-block-file .wp-block-file__button:hover,body .wp-block-file .wp-block-file__button:focus{color:transparent;}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}}@media (max-width:921px){.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}.ast-separate-container{background-color:#ffffff;;background-image:none;;}.entry-content > .wp-block-group,.entry-content > .wp-block-media-text,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns{max-width:58em;width:calc(100% - 4em);margin-left:auto;margin-right:auto;}.entry-content [class*="__inner-container"] > .alignfull{max-width:100%;margin-left:0;margin-right:0;}.entry-content [class*="__inner-container"] > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright){margin-left:auto;margin-right:auto;}.entry-content [class*="__inner-container"] > *:not(.alignwide):not(p):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide):not(iframe){max-width:50rem;width:100%;}@media (min-width:921px){.entry-content > .wp-block-group.alignwide.has-background,.entry-content > .wp-block-group.alignfull.has-background,.entry-content > .wp-block-cover.alignwide,.entry-content > .wp-block-cover.alignfull,.entry-content > .wp-block-columns.has-background.alignwide,.entry-content > .wp-block-columns.has-background.alignfull{margin-top:0;margin-bottom:0;padding:6em 4em;}.entry-content > .wp-block-columns.has-background{margin-bottom:0;}}@media (min-width:1200px){.entry-content .alignfull p{max-width:1200px;}.entry-content .alignfull{max-width:100%;width:100%;}.ast-page-builder-template .entry-content .alignwide,.entry-content [class*="__inner-container"] > .alignwide{max-width:1200px;margin-left:0;margin-right:0;}.entry-content .alignfull [class*="__inner-container"] > .alignwide{max-width:80rem;}}@media (min-width:545px){.site-main .entry-content > .alignwide{margin:0 auto;}.wp-block-group.has-background,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns.has-background{padding:4em;margin-top:0;margin-bottom:0;}.entry-content .wp-block-media-text.alignfull .wp-block-media-text__content,.entry-content .wp-block-media-text.has-background .wp-block-media-text__content{padding:0 8%;}}@media (max-width:921px){.widget-title{font-size:24px;font-size:1.41176470588rem;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-size:17px;font-size:1rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:17px;font-size:1rem;}.site-title{display:none;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:40px;}h2,.entry-content h2{font-size:32px;}h3,.entry-content h3{font-size:26px;}h4,.entry-content h4{font-size:20px;font-size:1.17647058824rem;}h5,.entry-content h5{font-size:17px;font-size:1rem;}h6,.entry-content h6{font-size:15px;font-size:0.882352941176rem;}}@media (max-width:544px){.widget-title{font-size:24px;font-size:1.41176470588rem;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-size:17px;font-size:1rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:17px;font-size:1rem;}.site-title{display:none;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:36px;}h2,.entry-content h2{font-size:28px;}h3,.entry-content h3{font-size:22px;}h4,.entry-content h4{font-size:18px;font-size:1.05882352941rem;}h5,.entry-content h5{font-size:15px;font-size:0.882352941176rem;}h6,.entry-content h6{font-size:14px;font-size:0.823529411765rem;}}@media (max-width:544px){html{font-size:106.25%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:922px){.site-content .ast-container{display:flex;}}@media (max-width:921px){.site-content .ast-container{flex-direction:column;}}@media (min-width:922px){.blog .site-content > .ast-container,.archive .site-content > .ast-container,.search .site-content > .ast-container{max-width:1200px;}}@media (min-width:922px){.single-post .site-content > .ast-container{max-width:1200px;}}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.wp-block-search {margin-bottom: 20px;}.wp-block-site-tagline {margin-top: 20px;}form.wp-block-search .wp-block-search__input,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper {border-color: #eaeaea;background: #fafafa;}.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,.wp-block-loginout input:focus {outline: thin dotted;}.wp-block-loginout input:focus {border-color: transparent;} form.wp-block-search .wp-block-search__inside-wrapper .wp-block-search__input {padding: 12px;}form.wp-block-search .wp-block-search__button svg {fill: currentColor;width: 20px;height: 20px;}.wp-block-loginout p label {display: block;}.wp-block-loginout p:not(.login-remember):not(.login-submit) input {width: 100%;}.wp-block-loginout .login-remember input {width: 1.1rem;height: 1.1rem;margin: 0 5px 4px 0;vertical-align: middle;}blockquote,cite {font-style: initial;}.wp-block-file {display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;}.wp-block-pullquote {border: none;}.wp-block-pullquote blockquote::before {content: "\201D";font-family: "Helvetica",sans-serif;display: flex;transform: rotate( 180deg );font-size: 6rem;font-style: normal;line-height: 1;font-weight: bold;align-items: center;justify-content: center;}.has-text-align-right > blockquote::before {justify-content: flex-start;}.has-text-align-left > blockquote::before {justify-content: flex-end;}figure.wp-block-pullquote.is-style-solid-color blockquote {max-width: 100%;text-align: inherit;}blockquote {padding: 0 1.2em 1.2em;}.wp-block-button__link {border: 2px solid currentColor;}body .wp-block-file .wp-block-file__button {text-decoration: none;}ul.wp-block-categories-list.wp-block-categories,ul.wp-block-archives-list.wp-block-archives {list-style-type: none;}ul,ol {margin-left: 20px;}figure.alignright figcaption {text-align: right;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#14498a;--ast-global-color-1:#2f5fa7;--ast-global-color-2:#c3e1fe;--ast-global-color-3:#ecf5ff;--ast-global-color-4:#14a970;--ast-global-color-5:#38c98c;--ast-global-color-6:#baf0e0;--ast-global-color-7:#eefcf8;--ast-global-color-8:#000000;}:root {--ast-border-color : #dddddd;}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}header.entry-header:not(.related-entry-header) .entry-title{text-transform:capitalize;}header.entry-header:not(.related-entry-header) > *:not(:last-child){margin-bottom:10px;}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-size:40px;font-size:2.35294117647rem;text-transform:capitalize;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}.trail-items li::after{content:"\003E";}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar.ast-header-breadcrumb,.ast-main-header-nav-open .main-header-bar.ast-header-breadcrumb{padding-top:1em;padding-bottom:1em;}.ast-header-break-point .main-header-bar.ast-header-breadcrumb{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}.ast-breadcrumbs-wrapper{line-height:1.4;}.ast-breadcrumbs-wrapper .rank-math-breadcrumb p{margin-bottom:0px;}.ast-breadcrumbs-wrapper{display:block;width:100%;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-8);}.entry-title a{color:var(--ast-global-color-8);}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:var(--ast-global-color-2);border-style:solid;border-radius:0px;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:var(--ast-global-color-3);;background-image:none;;min-height:80px;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:flex-start;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-footer-copyright{text-align:center;}.ast-footer-copyright {color:var(--ast-global-color-8);}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}@media (min-width:922px){#primary{width:70%;}#secondary{width:30%;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0px;margin-left:0px;width:.65em;transform:translate(0, -2px) rotateZ(270deg);}.ast-mobile-popup-content .ast-submenu-expanded > .ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto;}.ast-separate-container .blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:;;background-image:none;;}.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-narrow-container .site-content{background-color:;;background-image:none;;}.ast-plain-container, .ast-page-builder-template{background-color:;;background-image:none;;}
+		.ast-related-post-title, .entry-meta * {
+			word-break: break-word;
+		}
+		.ast-page-builder-template .ast-related-post .entry-header, .ast-related-post-content .entry-header, .ast-related-post-content .entry-meta {
+			margin: 1em auto 1em auto;
+			padding: 0;
+		}
+		.ast-related-posts-wrapper {
+			display: grid;
+			grid-column-gap: 25px;
+			grid-row-gap: 25px;
+		}
+		.ast-related-posts-wrapper .ast-related-post, .ast-related-post-featured-section {
+			padding: 0;
+			margin: 0;
+			width: 100%;
+			position: relative;
+		}
+		.ast-related-posts-inner-section {
+			height: 100%;
+		}
+		.post-has-thumb + .entry-header, .post-has-thumb + .entry-content {
+			margin-top: 1em;
+		}
+		.ast-related-post-content .entry-meta {
+			margin-top: 0.5em;
+		}
+		.ast-related-posts-inner-section .post-thumb-img-content {
+			margin: 0;
+			position: relative;
+		}
+		
+				.ast-separate-container .ast-related-posts-title {
+					margin: 0 0 20px 0;
+				}
+				.ast-related-posts-title-section {
+					border-top: 1px solid #eeeeee;
+				}
+				.ast-related-posts-title {
+					margin: 20px 0;
+				}
+				.ast-page-builder-template .ast-related-posts-title-section, .ast-page-builder-template .ast-single-related-posts-container {
+					padding: 0 20px;
+				}
+				.ast-separate-container .ast-single-related-posts-container {
+					padding: 5.34em 6.67em;
+				}
+				.ast-single-related-posts-container {
+					margin: 2em 0;
+				}
+				.ast-separate-container .ast-related-posts-title-section, .ast-page-builder-template .ast-single-related-posts-container {
+					border-top: 0;
+					margin-top: 0;
+				}
+				@media (max-width: 1200px) {
+					.ast-separate-container .ast-single-related-posts-container {
+						padding: 3.34em 2.4em;
+					}
+				}
+			.ast-single-related-posts-container .ast-related-posts-wrapper{grid-template-columns:1fr;}.ast-related-posts-inner-section .ast-date-meta .posted-on, .ast-related-posts-inner-section .ast-date-meta .posted-on *{background:var(--ast-global-color-0);color:#ffffff;}.ast-related-posts-inner-section .ast-date-meta .posted-on .date-month, .ast-related-posts-inner-section .ast-date-meta .posted-on .date-year{color:#ffffff;}.ast-single-related-posts-container{background-color:;;background-image:none;;}.ast-related-posts-title{font-size:30px;font-size:1.76470588235rem;line-height:1.6em;}.ast-related-posts-title-section .ast-related-posts-title{text-align:left;}.ast-related-post-content .entry-header .ast-related-post-title, .ast-related-post-content .entry-header .ast-related-post-title a{font-size:20px;font-size:1.17647058824rem;line-height:1em;}.ast-related-post-content .entry-meta, .ast-related-post-content .entry-meta *{font-size:14px;font-size:0.823529411765rem;line-height:1.6em;}@media (max-width:921px){.ast-single-related-posts-container .ast-related-posts-wrapper .ast-related-post{width:100%;}.ast-single-related-posts-container .ast-related-posts-wrapper{grid-template-columns:repeat( 2, 1fr );}.ast-single-related-posts-container{background-color:;;background-image:none;;}}@media (max-width:544px){.ast-single-related-posts-container .ast-related-posts-wrapper{grid-template-columns:1fr;}.ast-single-related-posts-container{background-color:;;background-image:none;;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:70px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:70px;}@media (max-width:921px){#masthead .ast-mobile-header-wrap .ast-primary-header-bar,#masthead .ast-mobile-header-wrap .ast-below-header-bar{padding-left:20px;padding-right:20px;}}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}}.ast-primary-header-bar{background-color:#ffeed2;;background-image:none;;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-0);border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:var(--ast-global-color-0);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-0);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder-menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css' href="https://www.theforage.com/blog/wp-content/astra-local-fonts/astra-local-fonts.css?ver=4.0.2" media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href="https://www.theforage.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2" media='all' />
+<style id='forage-core-carousel-style-inline-css'>
+html{--forage-color-primary:#144b8a;--forage-color-primary-strong:#2f5fa7;--forage-color-primary-medium:#c3e1fe;--forage-color-primary-background:#ebf4ff;--forage-color-secondary:#14a972;--forage-color-secondary-strong:#37c88c;--forage-color-secondary-medium:#bcf0e1;--forage-color-secondary-background:#eefcf8;--forage-color-accent-primary:#2194b7;--forage-color-accent-primary-strong:#58b6d3;--forage-color-accent-primary-medium:#6bf2fe;--forage-color-accent-primary-background:#f1fcff;--forage-color-accent-secondary:#cdf96f;--forage-color-accent-secondary-strong:#d7fa8c;--forage-color-accent-secondary-medium:#ebfdc5;--forage-hs-mono:0 0%;--forage-hs-accent-1:226 86%;--forage-hs-accent-2:329.5 45.3%;--forage-color-off-white:#f2f5f8;--forage-color-white:hsl(var(--forage-hs-mono) 100%);--forage-color-black:hsl(var(--forage-hs-mono) 0%);--forage-color-gray-100:hsl(var(--forage-hs-mono) 95%);--forage-color-gray-300:hsl(var(--forage-hs-mono) 80%);--forage-color-gray-500:hsl(var(--forage-hs-mono) 60%);--forage-color-gray-700:hsl(var(--forage-hs-mono) 40%);--forage-color-gray-900:hsl(var(--forage-hs-mono) 20%);--forage-color-button:#0072f5;--forage-color-link:var(--forage-color-primary);--forage-font-family-display:"Aleo",sans-serif;--forage-font-family-text:"DM Sans",sans-serif;--forage-font-size-xs:0.75rem;--forage-font-size-sm:0.875rem;--forage-line-height:1.4;--forage-box-shadow:0 0 8px 0 var(--forage-color-gray-300);--forage-drop-shadow:0 0 8px var(--forage-color-gray-300);--forage-box-shadow-hover:0 0 8px 0 var(--forage-color-gray-500);--forage-weight-anchors:500;--forage-border-radius-xs:2px;--forage-border-radius-sm:4px;--forage-border-radius-md:8px;--forage-border-radius-lg:16px}.wp-block-carousel{position:relative;width:100%}.wp-block-carousel .wp-block-columns{flex-direction:row;flex-wrap:nowrap!important;gap:16px;margin-bottom:16px;min-width:100%}.wp-block-carousel .wp-block-column,.wp-block-carousel .wp-block-image img{width:100%}.wp-block-carousel-slides-container{display:flex;gap:16px;overflow:hidden}.wp-block-carousel-slide{flex:0 0 100%;transition:all .5s}.wp-block-carousel-slide img{height:100%;-o-object-fit:cover;object-fit:cover;width:100%}.c-entry__buttons{-webkit-margin-before:var(--wp--custom--spacing--micro,16px);align-items:center;display:flex;gap:16px;justify-content:center;margin-block-start:var(--wp--custom--spacing--micro,16px)}.c-entry__buttons .c-entry__button.c-entry__button--next,.c-entry__buttons .c-entry__button.c-entry__button--prev{align-items:center;background-color:var(--forage-color-button);border:none;border-radius:var(--forage-border-radius-lg);color:var(--forage-color-white);cursor:pointer;display:flex;height:32px;justify-content:center;padding:15px 30px;width:32px}.c-entry__buttons .c-entry__button.c-entry__button--next:before{content:">"}.c-entry__buttons .c-entry__button.c-entry__button--prev:before{content:"<"}.c-entry__buttons .c-entry__button.c-entry__button--next:before,.c-entry__buttons .c-entry__button.c-entry__button--prev:before{display:block;font-size:18px}.c-entry__buttons .c-entry__button.c-entry__button--next:disabled:before,.c-entry__buttons .c-entry__button.c-entry__button--prev:disabled:before{opacity:.8}
+
+</style>
+<style id='forage-core-post-meta-style-inline-css'>
+.wp-block-forage-post-meta{border-top:1px solid #eaeaea;padding:16px}.wp-block-forage-post-meta ul{-webkit-padding-start:0;display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:0!important;padding-inline-start:0}.wp-block-forage-post-meta ul li{color:#adadad;font-size:12px}.wp-block-forage-post-meta ul li:not(:first-of-type):before{content:"·";padding-right:8px}.wp-block-post-template .wp-block-forage-post-meta ul li{width:revert}
+
+</style>
+<style id='forage-core-vep-style-inline-css'>
+.vep__container{align-items:flex-end;display:flex;flex-direction:column}.vep__title{display:inline;width:100%}.vep__list{--min-column-width:min(275px,100%);display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(var(--min-column-width),1fr));margin-bottom:16px;margin-left:0;width:100%}.vep__list-item{align-items:center;border-radius:var(--forage-border-radius-md);box-shadow:var(--forage-box-shadow);display:grid;flex-direction:column;font-size:.875rem;gap:12px;grid-template-columns:2fr 1fr;padding:12px;position:relative;transition:box-shadow .25s ease-in-out}.vep__list-item:hover{box-shadow:var(--forage-box-shadow-hover)}.vep__url{line-height:var(--forage-line-height);text-align:center}.vep__url:before{bottom:0;content:"";display:block;left:0;position:absolute;right:0;top:0}.vep__company{align-items:center;display:flex;flex-direction:column;gap:8px;justify-content:center}.vep__company--image img{background-color:var(--forage-color-white);border-radius:var(--forage-border-radius-md);box-shadow:var(--forage-box-shadow);box-sizing:border-box;max-height:56px;padding:8px;width:auto}.vep__company--label{color:var(--forage-color-gray-700);font-size:.75rem;line-height:var(--forage-line-height);text-align:center}.vep__view-all{background-color:var(--forage-color-secondary);border-radius:var(--forage-border-radius-lg);color:var(--forage-color-white);font-size:.875rem;line-height:1;padding:.6em 1.2em}
+
+</style>
+<style id='forage-core-course-card-style-inline-css'>
+html{--forage-color-primary:#144b8a;--forage-color-primary-strong:#2f5fa7;--forage-color-primary-medium:#c3e1fe;--forage-color-primary-background:#ebf4ff;--forage-color-secondary:#14a972;--forage-color-secondary-strong:#37c88c;--forage-color-secondary-medium:#bcf0e1;--forage-color-secondary-background:#eefcf8;--forage-color-accent-primary:#2194b7;--forage-color-accent-primary-strong:#58b6d3;--forage-color-accent-primary-medium:#6bf2fe;--forage-color-accent-primary-background:#f1fcff;--forage-color-accent-secondary:#cdf96f;--forage-color-accent-secondary-strong:#d7fa8c;--forage-color-accent-secondary-medium:#ebfdc5;--forage-hs-mono:0 0%;--forage-hs-accent-1:226 86%;--forage-hs-accent-2:329.5 45.3%;--forage-color-off-white:#f2f5f8;--forage-color-white:hsl(var(--forage-hs-mono) 100%);--forage-color-black:hsl(var(--forage-hs-mono) 0%);--forage-color-gray-100:hsl(var(--forage-hs-mono) 95%);--forage-color-gray-300:hsl(var(--forage-hs-mono) 80%);--forage-color-gray-500:hsl(var(--forage-hs-mono) 60%);--forage-color-gray-700:hsl(var(--forage-hs-mono) 40%);--forage-color-gray-900:hsl(var(--forage-hs-mono) 20%);--forage-color-button:#0072f5;--forage-color-link:var(--forage-color-primary);--forage-font-family-display:"Aleo",sans-serif;--forage-font-family-text:"DM Sans",sans-serif;--forage-font-size-xs:0.75rem;--forage-font-size-sm:0.875rem;--forage-line-height:1.4;--forage-box-shadow:0 0 8px 0 var(--forage-color-gray-300);--forage-drop-shadow:0 0 8px var(--forage-color-gray-300);--forage-box-shadow-hover:0 0 8px 0 var(--forage-color-gray-500);--forage-weight-anchors:500;--forage-border-radius-xs:2px;--forage-border-radius-sm:4px;--forage-border-radius-md:8px;--forage-border-radius-lg:16px}body .forage-core-course-card{border-radius:var(--forage-border-radius-md);box-shadow:var(--forage-box-shadow);margin-bottom:16px;padding:20px 8px;transition:box-shadow .25s ease-in-out}body .forage-core-course-card__inner{display:grid;gap:16px 0}@media(min-width:544px){body .forage-core-course-card__inner{grid-template-columns:7fr 4fr}}body .forage-core-course-card__col{display:flex;flex-direction:column;gap:16px;padding:0 16px}@media(min-width:544px){body .forage-core-course-card__col:first-of-type{border-right:1px solid var(--forage-color-gray-100)}}body .forage-core-course-card__row{align-items:center;display:flex;flex-wrap:wrap;gap:8px}@media(min-width:782px){body .forage-core-course-card__row{flex-wrap:nowrap}}body .forage-core-course-card__row img{border:1px solid var(--forage-color-gray-100);border-radius:var(--forage-border-radius-sm);max-height:70px;padding:4px;width:auto}body .forage-core-course-card__button a{background-color:var(--forage-color-button);border-radius:var(--forage-border-radius-sm);color:var(--forage-color-white);display:inline-block;font-size:.875rem;font-weight:600;line-height:1;min-width:200px;padding:12px 24px;text-align:center;text-decoration:none!important}body .forage-core-course-card__button--desktop{display:none}@media(min-width:544px){body .forage-core-course-card__button--mobile{display:none}body .forage-core-course-card__button--desktop{display:revert}}body .forage-core-course-card .label{font-weight:600;margin-right:4px}body .forage-core-course-card h2{font-size:1.125rem!important;margin:0;word-break:break-word}body .forage-core-course-card p{font-size:.875rem;margin:0}
+
+</style>
+<style id='forage-core-course-card-vertical-style-inline-css'>
+.forage-core-course-card-vertical{align-items:center;border-radius:var(--forage-border-radius-md);box-shadow:var(--forage-box-shadow);display:flex;flex-direction:column;font-size:.875rem;padding:12px;position:relative;text-align:center;transition:box-shadow .25s ease-in-out}.forage-core-course-card-vertical:hover{box-shadow:var(--forage-box-shadow-hover)}.forage-core-course-card-vertical__url{line-height:var(--forage-line-height);text-align:center}.forage-core-course-card-vertical__url:before{bottom:0;content:"";display:block;left:0;position:absolute;right:0;top:0}.forage-core-course-card-vertical__company{align-items:center;display:flex;flex-direction:column;gap:8px;justify-content:center}.forage-core-course-card-vertical__company--image img{background-color:var(--forage-color-white);border-radius:var(--forage-border-radius-md);box-shadow:var(--forage-box-shadow);box-sizing:border-box;max-height:56px;padding:8px;width:auto}.forage-core-course-card-vertical__company--label{color:var(--forage-color-gray-700);font-size:.75rem}
+
+</style>
+<style id='forage-core-course-card-carousel-style-inline-css'>
+html{--forage-color-primary:#144b8a;--forage-color-primary-strong:#2f5fa7;--forage-color-primary-medium:#c3e1fe;--forage-color-primary-background:#ebf4ff;--forage-color-secondary:#14a972;--forage-color-secondary-strong:#37c88c;--forage-color-secondary-medium:#bcf0e1;--forage-color-secondary-background:#eefcf8;--forage-color-accent-primary:#2194b7;--forage-color-accent-primary-strong:#58b6d3;--forage-color-accent-primary-medium:#6bf2fe;--forage-color-accent-primary-background:#f1fcff;--forage-color-accent-secondary:#cdf96f;--forage-color-accent-secondary-strong:#d7fa8c;--forage-color-accent-secondary-medium:#ebfdc5;--forage-hs-mono:0 0%;--forage-hs-accent-1:226 86%;--forage-hs-accent-2:329.5 45.3%;--forage-color-off-white:#f2f5f8;--forage-color-white:hsl(var(--forage-hs-mono) 100%);--forage-color-black:hsl(var(--forage-hs-mono) 0%);--forage-color-gray-100:hsl(var(--forage-hs-mono) 95%);--forage-color-gray-300:hsl(var(--forage-hs-mono) 80%);--forage-color-gray-500:hsl(var(--forage-hs-mono) 60%);--forage-color-gray-700:hsl(var(--forage-hs-mono) 40%);--forage-color-gray-900:hsl(var(--forage-hs-mono) 20%);--forage-color-button:#0072f5;--forage-color-link:var(--forage-color-primary);--forage-font-family-display:"Aleo",sans-serif;--forage-font-family-text:"DM Sans",sans-serif;--forage-font-size-xs:0.75rem;--forage-font-size-sm:0.875rem;--forage-line-height:1.4;--forage-box-shadow:0 0 8px 0 var(--forage-color-gray-300);--forage-drop-shadow:0 0 8px var(--forage-color-gray-300);--forage-box-shadow-hover:0 0 8px 0 var(--forage-color-gray-500);--forage-weight-anchors:500;--forage-border-radius-xs:2px;--forage-border-radius-sm:4px;--forage-border-radius-md:8px;--forage-border-radius-lg:16px}.forage-core-course-card-carousel{margin-bottom:16px;max-width:100%;overflow-x:hidden;width:calc(100vw - 32px)}@media(min-width:782px){.forage-core-course-card-carousel{width:100%}}.forage-core-course-card-carousel__title{font-family:var(--forage-font-family-text);font-size:1.3rem;line-height:var(--forage-line-height)}.forage-core-course-card-carousel__slides-container{--slide-gap:16px;display:flex;gap:var(--slide-gap);overflow:hidden;padding:8px;position:relative}.forage-core-course-card-carousel__slides-container>*{flex:0 0 100%;transition:all .5s}@media(min-width:782px){.forage-core-course-card-carousel__slides-container>*{flex:0 0 calc(33.33333% - var(--slide-gap)*2/3)}}.forage-core-course-card-carousel .c-entry__buttons{-webkit-margin-before:var(--wp--custom--spacing--micro,16px);align-items:center;display:flex;gap:16px;justify-content:center;margin-block-start:var(--wp--custom--spacing--micro,16px)}.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--next,.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--prev{align-items:center;background-color:var(--forage-color-button);border:none;border-radius:var(--forage-border-radius-lg);color:var(--forage-color-white);cursor:pointer;display:flex;height:32px;justify-content:center;padding:15px 30px;width:32px}.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--next:before{content:">"}.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--prev:before{content:"<"}.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--next:before,.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--prev:before{display:block;font-size:18px}.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--next:disabled:before,.forage-core-course-card-carousel .c-entry__buttons .c-entry__button.c-entry__button--prev:disabled:before{opacity:.8}
+
+</style>
+<style id='forage-core-url-query-condition-style-inline-css'>
+
+
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ast-global-color-0: var(--ast-global-color-0);--wp--preset--color--ast-global-color-1: var(--ast-global-color-1);--wp--preset--color--ast-global-color-2: var(--ast-global-color-2);--wp--preset--color--ast-global-color-3: var(--ast-global-color-3);--wp--preset--color--ast-global-color-4: var(--ast-global-color-4);--wp--preset--color--ast-global-color-5: var(--ast-global-color-5);--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: 24px; }body { --wp--style--block-gap: 24px; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-flex{gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-color{color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-color{color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-color{color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-color{color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-color{color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-color{color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-color{color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-color{color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-color{color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-background-color{background-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-background-color{background-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-background-color{background-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-background-color{background-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-background-color{background-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-background-color{background-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-background-color{background-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-background-color{background-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-background-color{background-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-border-color{border-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-border-color{border-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-border-color{border-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-border-color{border-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-border-color{border-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-border-color{border-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-border-color{border-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-border-color{border-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-border-color{border-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-ulike-css' href="https://www.theforage.com/blog/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=4.6.7" media='all' />
+<link rel='stylesheet' id='forage-core-public-css' href="https://www.theforage.com/blog/wp-content/plugins/forage-core/build/public-scripts.css?ver=2.0.3" media='all' />
+<link rel='stylesheet' id='forage-core-public-post-css' href="https://www.theforage.com/blog/wp-content/plugins/forage-core/build/public-post-scripts.css?ver=2.0.3" media='all' />
+<!--[if IE]>
+<script src='https://theforage.wpengine.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.0.2' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='https://theforage.wpengine.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/carousel/script.js?ver=795f8fe8a6c4a6555e0e' id='forage-core-carousel-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/post-meta/script.js?ver=1e05e2d245a054858729' id='forage-core-post-meta-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/vep/script.js?ver=388bc96dcbebd9331b3e' id='forage-core-vep-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/course-card/script.js?ver=95a94dda98596bd7f48e' id='forage-core-course-card-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/course-card-vertical/script.js?ver=60328b60231f1429e14c' id='forage-core-course-card-vertical-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/course-card-carousel/script.js?ver=67e48e72aeb98e3e3ee7' id='forage-core-course-card-carousel-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/url-query-condition/script.js?ver=b4a52828918f1af2eded' id='forage-core-url-query-condition-script-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script defer crossorigin="anonymous" src='https://kit.fontawesome.com/caa8f2fb3e.js' id='font-awesome-official-js'></script>
+<link rel="https://api.w.org/" href="https://www.theforage.com/blog/wp-json" /><link rel="alternate" type="application/json" href="https://www.theforage.com/blog/wp-json/wp/v2/posts/3380" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.theforage.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.theforage.com/blog/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href="https://www.theforage.com/blog/?p=3380" />
+<link rel="alternate" type="application/json+oembed" href="https://www.theforage.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheforage.wpengine.com%2Fcareers%2Fwhat-is-computer-programming" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.theforage.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheforage.wpengine.com%2Fcareers%2Fwhat-is-computer-programming&#038;format=xml" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETCKNHENBN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETCKNHENBN');
+</script><link rel="icon" href="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-gem-150x142.png" sizes="32x32" />
+<link rel="icon" href="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-gem.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-gem.png" />
+<meta name="msapplication-TileImage" content="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-gem.png" />
+		<style id="wp-custom-css">
+			.forage__cta-pattern {
+	isolation: isolate;
+}
+
+.forage__cta-pattern * {
+	z-index: 1;
+}		</style>
+		</head>
+
+<body itemtype='https://schema.org/Blog' itemscope='itemscope' class="post-template-default single single-post postid-3380 single-format-standard wp-custom-logo ast-desktop ast-separate-container ast-right-sidebar astra-4.0.2 group-blog ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.498039215686" /><feFuncG type="table" tableValues="0 0.498039215686" /><feFuncB type="table" tableValues="0 0.498039215686" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.549019607843 0.988235294118" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.717647058824 0.254901960784" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.278431372549" /><feFuncB type="table" tableValues="0.592156862745 0.278431372549" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.647058823529" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.780392156863 1" /><feFuncG type="table" tableValues="0 0.949019607843" /><feFuncB type="table" tableValues="0.352941176471 0.470588235294" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.650980392157 0.403921568627" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.447058823529 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.0980392156863 1" /><feFuncG type="table" tableValues="0 0.662745098039" /><feFuncB type="table" tableValues="0.847058823529 0.419607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#content" role="link" title="Skip to content">
+		Skip to content</a>
+
+<div
+class="hfeed site" id="page">
+			<header
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap ">
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
+						<div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+											<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://www.theforage.com/blog" class="custom-logo-link" rel="home"><img width="120" height="36" src="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-120x36.png" class="custom-logo" alt="Forage" decoding="async" srcset="https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-120x36.png 120w, https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-150x45.png 150w, https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1.png 300w" sizes="(max-width: 120px) 100vw, 120px" /></a></span>				</div>
+			<!-- .site-branding -->
+					</div>
+								</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343"><a href="https://www.theforage.com/course-catalog" class="menu-link">Course catalog</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="https://www.theforage.com/blog" class="menu-link">Blog</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344"><a href="https://employers.theforage.com" class="menu-link">For employers</a></li>
+<li id="menu-item-345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-345"><a href="https://education.theforage.com" class="menu-link">For educators</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346"><a href="https://www.theforage.com/signup" class="menu-link">Sign up</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347"><a href="https://www.theforage.com/login" class="menu-link">Login</a></li>
+
+<div class="forage-search">
+	<span class="forage-search__toggle" aria-label="Search toggle" aria-pressed="false">
+		<span class="ast-icon icon-search"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="-888 480 142 142" enable-background="new -888 480 142 142" xml:space="preserve">
+				<path d="M-787.4,568.7h-6.3l-2.4-2.4c7.9-8.7,12.6-20.5,12.6-33.1c0-28.4-22.9-51.3-51.3-51.3  c-28.4,0-51.3,22.9-51.3,51.3c0,28.4,22.9,51.3,51.3,51.3c12.6,0,24.4-4.7,33.1-12.6l2.4,2.4v6.3l39.4,39.4l11.8-11.8L-787.4,568.7  L-787.4,568.7z M-834.7,568.7c-19.7,0-35.5-15.8-35.5-35.5c0-19.7,15.8-35.5,35.5-35.5c19.7,0,35.5,15.8,35.5,35.5  C-799.3,553-815,568.7-834.7,568.7L-834.7,568.7z"/>
+				</svg></span>	</span>
+	<div class="forage-search__form hide">
+		<form role="search" method="get" action="https://www.theforage.com/blog" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label" >Search</label><div class="wp-block-search__inside-wrapper " ><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="Search articles"  required /><button type="submit" class="wp-block-search__button wp-element-button"  >Search</button></div></form>	</div>
+</div>
+</ul></div></nav></div></div>		</div>
+									</div>
+												</div>
+					</div>
+								</div>
+			</div>
+		<div class="ast-desktop-header-content content-align-flex-start ">
+			</div>
+</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://www.theforage.com/blog" class="custom-logo-link" rel="home"><img width="120" height="36" src="https://www.theforage.com/blog/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-120x36.png" class="custom-logo" alt="Forage" decoding="async" srcset="https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-120x36.png 120w, https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1-150x45.png 150w, https://theforage.wpengine.com/wp-content/uploads/2023/04/navy-wide-logo-2x-300x90-1.png 300w" sizes="(max-width: 120px) 100vw, 120px" /></a></span>				</div>
+			<!-- .site-branding -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal"   aria-expanded="false">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-menu-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z'></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></path></svg></span>					</span>
+									</button>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+				<div class="forage-search--mobile">
+				
+<div class="forage-search">
+	<span class="forage-search__toggle" aria-label="Search toggle" aria-pressed="false">
+		<span class="ast-icon icon-search"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="-888 480 142 142" enable-background="new -888 480 142 142" xml:space="preserve">
+				<path d="M-787.4,568.7h-6.3l-2.4-2.4c7.9-8.7,12.6-20.5,12.6-33.1c0-28.4-22.9-51.3-51.3-51.3  c-28.4,0-51.3,22.9-51.3,51.3c0,28.4,22.9,51.3,51.3,51.3c12.6,0,24.4-4.7,33.1-12.6l2.4,2.4v6.3l39.4,39.4l11.8-11.8L-787.4,568.7  L-787.4,568.7z M-834.7,568.7c-19.7,0-35.5-15.8-35.5-35.5c0-19.7,15.8-35.5,35.5-35.5c19.7,0,35.5,15.8,35.5,35.5  C-799.3,553-815,568.7-834.7,568.7L-834.7,568.7z"/>
+				</svg></span>	</span>
+	<div class="forage-search__form hide">
+		<form role="search" method="get" action="https://www.theforage.com/blog" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-2" class="wp-block-search__label" >Search</label><div class="wp-block-search__inside-wrapper " ><input type="search" id="wp-block-search__input-2" class="wp-block-search__input" name="s" value="" placeholder="Search articles"  required /><button type="submit" class="wp-block-search__button wp-element-button"  >Search</button></div></form>	</div>
+</div>
+			</div>
+				<div class="ast-mobile-header-content content-align-flex-start ">
+				<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="ast-mobile-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343"><a href="https://www.theforage.com/course-catalog" class="menu-link">Course catalog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="https://www.theforage.com/blog" class="menu-link">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-344"><a href="https://employers.theforage.com" class="menu-link">For employers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-345"><a href="https://education.theforage.com" class="menu-link">For educators</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346"><a href="https://www.theforage.com/signup" class="menu-link">Sign up</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347"><a href="https://www.theforage.com/login" class="menu-link">Login</a></li>
+</ul></div></nav></div></div>		</div>
+			</div>
+</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				
+
+<article
+class="post-3380 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single" id="post-3380" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+		<div class="ast-breadcrumbs-wrapper">
+		<div class="ast-breadcrumbs-inner">
+			<div id="ast-breadcrumbs-yoast" ><span><span><a href="https://www.theforage.com/blog">Home</a></span> &gt; <span><a href="https://www.theforage.com/blog/careers">Careers</a></span> &gt; <span class="breadcrumb_last" aria-current="page"><strong>What Is Computer Programming?</strong></span></span></div>		</div>
+	</div>
+	
+	
+<div class="ast-post-format- single-layout-1">
+
+	
+	
+		<header class="entry-header ">
+
+			
+			<h1 class="entry-title" itemprop="headline">What Is Computer Programming?</h1>	<div class="forage-entry-meta">
+		<div class="forage-entry-meta__column-left">
+			<img alt='Robin Madell' src="https://www.theforage.com/blog/wp-content/uploads/2022/10/Madell-photo-48x48.jpg" srcset='https://theforage.wpengine.com/wp-content/uploads/2022/10/Madell-photo-96x96.jpg 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async' />		</div>
+		<div class="forage-entry-meta__column-right">
+				<span class="forage-entry-meta__credit-wrapper">
+					<span class="forage-entry-meta__credit">
+						<span class="forage-entry-meta__by">
+							Written by						</span>
+						
+		<span itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">
+			<a href="https://www.theforage.com/blog/author/robin-madell" title="View all posts by Robin Madell" itemprop="url">
+				<span itemprop="name">
+					Robin Madell				</span>
+							</a>
+		</span>
+							</span>
+				</span>
+							<span class="forage-entry-meta__credit-wrapper">
+					<span class="forage-entry-meta__credit">
+						Edited by&nbsp;
+		<span itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="editor">
+			<a href="https://www.theforage.com/blog/author/emily-courtney" title="View all posts by Emily Courtney" itemprop="url">
+				<span itemprop="name">
+					Emily Courtney				</span>
+							</a>
+		</span>
+							</span>
+				</span>
+									<span class="forage-entry-meta__date-wrapper">
+				<span class="forage-entry-meta__date">
+					Updated on April 11, 2023				</span>
+			</span>
+		</div>
+		<div class="forage-entry-meta__social">
+			<div class="wp-block-genesis-blocks-gb-sharing gb-block-sharing gb-share-icon-only gb-share-shape-circular gb-share-size-medium gb-share-color-social ">
+			<ul class="gb-share-list"><li>
+			<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('http://twitter.com/share?text=What%20Is%20Computer%20Programming?&#038;url=https://www.theforage.com/blog/careers/what-is-computer-programming', 'Share on Twitter', '600', '600')" class="gb-share-twitter" title="Share on Twitter">
+				<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-twitter-64b621a9b21fe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title id="gb-link-twitter-64b621a9b21fe">Share on Twitter</title><path fill="#fff" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"></path></svg> <span class="gb-social-text">Share on Twitter</span>
+			</a>
+		</li><li>
+				<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('https://www.facebook.com/sharer/sharer.php?u=https://www.theforage.com/blog/careers/what-is-computer-programming&#038;title=What%20Is%20Computer%20Programming?', 'Share on Facebook', '600', '600')" class="gb-share-facebook" title="Share on Facebook">
+					<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-facebook-64b621a9b21fe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title id="gb-link-facebook-64b621a9b21fe">Share on Facebook</title><path fill="#fff" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path></svg> <span class="gb-social-text">Share on Facebook</span>
+				</a>
+			</li><li>
+				<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('https://www.linkedin.com/shareArticle?mini=true&#038;url=https://www.theforage.com/blog/careers/what-is-computer-programming&#038;title=What%20Is%20Computer%20Programming?', 'Share on LinkedIn', '600', '600')" class="gb-share-linkedin" title="Share on LinkedIn">
+					<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-linkedin-64b621a9b21fe" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title id="gb-link-linkedin-64b621a9b21fe">Share on LinkedIn</title><path fill="#fff" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path></svg> <span class="gb-social-text">Share on LinkedIn</span>
+				</a>
+			</li></ul>
+		</div>		</div>
+	</div>
+<div class="entry-meta">By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by Robin Madell" href="https://www.theforage.com/blog/author/robin-madell" rel="author" class="url fn n" itemprop="url">
+				<span
+				class="author-name" itemprop="name"				>Robin Madell</span>
+			</a>
+		</span>
+
+		 / <span class="posted-on"><span class="published" itemprop="datePublished"> April 11, 2023</span><span class="updated" itemprop="dateModified"> April 11, 2023</span></span></div><div class="post-thumb-img-content post-thumb"><img width="1024" height="682" src="https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming-1024x682.jpg" class="attachment-large size-large wp-post-image" alt="What is computer programming?" decoding="async" loading="lazy" itemprop="image" srcset="https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-1024x682.jpg 1024w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-300x200.jpg 300w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-150x100.jpg 150w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-768x512.jpg 768w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-1536x1024.jpg 1536w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming-600x400.jpg 600w, https://theforage.wpengine.com/wp-content/uploads/2023/04/computer-programming.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></div>
+			
+		</header><!-- .entry-header -->
+
+	
+	<div class="forage-article-disclosure">
+<p class="has-small-font-size" style="line-height:1.4">Forage puts students first. Our blog articles are written independently by our editorial team. They have not been paid for or sponsored by our partners. See our full&nbsp;<a rel="noreferrer noopener" href="https://www.theforage.com/editorial-guidelines" target="_blank">editorial guidelines</a>.</p>
+</div>
+	<div class="entry-content clear"
+	itemprop="text"	>
+
+		
+		
+<p>Computer programming is a technology field that focuses on designing, writing, testing, and modifying instructions — or code — that computer systems and devices use to perform specific tasks.</p>
+
+
+
+<p>This career requires technical expertise and <a href="https://www.theforage.com/blog/skills/programming-skills">programming skills</a> to create the code that makes software programs and applications function, translating the software&#8217;s design into instructions that computers understand. Programmers generally specialize in multiple programming languages.</p>
+
+
+
+<p>In this guide, we’ll cover the following:</p>
+
+
+
+<ul>
+<li><a href="#h-overview-of-computer-programming">Overview of Computer Programming</a></li>
+
+
+
+<li><a href="#h-computer-programming-industries">Computer Programming Industries</a></li>
+
+
+
+<li><a href="#h-how-to-get-into-a-computer-programming-career">How to Get Into a Computer Programming Career</a></li>
+
+
+
+<li><a href="#h-skills-for-computer-programming">Skills for Computer Programming</a></li>
+
+
+
+<li><a href="#h-pros-and-cons-of-working-in-computer-programming">Pros and Cons of Working in Computer Programming</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-overview-of-computer-programming">Overview of Computer Programming</h2>
+
+
+
+<p>What is programming? Computer programming involves designing, developing, and implementing software applications by writing and optimizing code in various programming languages.&nbsp;</p>
+
+
+
+<p>&#8220;Programmers are responsible for translating functional requirements into efficient and maintainable solutions, often collaborating with other professionals, such as <a href="https://www.theforage.com/blog/careers/day-in-life-software-engineer">software engineers</a>, <a href="https://www.theforage.com/blog/careers/data-scientist">data scientists</a>, and <a href="https://www.theforage.com/blog/careers/ux-designer">UX/UI designers</a>, for creating user-friendly and high-performance products,&#8221; says Ammar Darkazanli, vice president of systems engineering at Biofourmis, who has been developing software for over 30 years and has decades of programming expertise.</p>
+
+
+
+<p>In short, computer programming turns ideas into reality. Programmers create coding that allows the software to work on personal computers and devices such as tablets and smartphones.</p>
+
+
+
+	<div class="forage-core-course-card">
+		<div class="forage-core-course-card__inner">
+
+			<div class="forage-core-course-card__col">
+				<div class="forage-core-course-card__row">
+					<img width="150" height="100" src="https://www.theforage.com/blog/wp-content/uploads/2022/08/Accenture-150x100.jpg" class="attachment-thumbnail size-thumbnail" alt="working at Accenture" decoding="async" loading="lazy" srcset="https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-150x100.jpg 150w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-300x200.jpg 300w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-1024x684.jpg 1024w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-768x513.jpg 768w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-1536x1025.jpg 1536w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture-600x400.jpg 600w, https://theforage.wpengine.com/wp-content/uploads/2022/08/Accenture.jpg 2000w" sizes="(max-width: 150px) 100vw, 150px" />																<h2 class="forage-core-course-card__name">Accenture Know the Code</h2>
+									</div>
+
+									<p class="forage-core-course-card__description">Practice and grow your coding skills by learning the fundamentals of software development in this free job simulation.</p>
+				
+									<div class="forage-core-course-card__button forage-core-course-card__button--desktop">
+						<a href="https://www.theforage.com/virtual-internships/prototype/XvvYRvb2YpfkyA52H/Coding-Virtual-Experience?forceFastTrackV2=true" target="_blank">
+							Enroll Now						</a>
+					</div>
+							</div>
+
+			<div class="forage-core-course-card__col">
+									<p class="forage-core-course-card__time">
+						<span class="label">Avg. Time:</span>
+						5-6 Hours					</p>
+				
+									<p class="forage-core-course-card__skills">
+						<span class="label">Skills you&#8217;ll build:</span>
+						Java, Spring, Object Oriented Programming, Code Refactoring, DevOps, Continuous Integration, Agile Methodology					</p>
+				
+									<div class="forage-core-course-card__button forage-core-course-card__button--mobile">
+						<a href="https://www.theforage.com/virtual-internships/prototype/XvvYRvb2YpfkyA52H/Coding-Virtual-Experience?forceFastTrackV2=true" target="_blank">
+							Enroll Now						</a>
+					</div>
+							</div>
+
+		</div>
+	</div>
+
+
+
+
+<h2 class="wp-block-heading" id="h-computer-programming-industries">Computer Programming Industries</h2>
+
+
+
+<p>A career in computer programming can open doors into various industries. This gives programmers ample opportunities to apply their skills in different contexts that match their interests and expertise.&nbsp;</p>
+
+
+
+<p>&#8220;Computer programmers can work in nearly any context, from public sector work for cities to manufacturing and retail enterprises,&#8221; explains Dr. Jo Ann Oravec, a professor of information technology at the University of Wisconsin at Whitewater. &#8220;These various kinds of programming contexts have some similarity, though, in terms of need for quality control, documentation, and structure.&#8221;</p>
+
+
+
+<p>Some industries that rely on computer programming include:</p>
+
+
+
+<ul>
+<li>Information technology and software development</li>
+
+
+
+<li><a href="https://www.theforage.com/blog/careers/is-finance-a-good-career-path">Finance</a> and banking</li>
+
+
+
+<li><a href="https://www.theforage.com/blog/careers/health-care-good-career-path">Health care</a></li>
+
+
+
+<li>Automotive</li>
+
+
+
+<li>Manufacturing and automation</li>
+
+
+
+<li>Telecommunications</li>
+
+
+
+<li>Entertainment and gaming</li>
+
+
+
+<li>Education and e-learning</li>
+
+
+
+<li>Transportation and logistics</li>
+
+
+
+<li><a href="https://www.theforage.com/blog/careers/energy-good-career-path">Energy</a> and utilities</li>
+
+
+
+<li>Aerospace and defense</li>
+
+
+
+<li>Retail and e-commerce</li>
+
+
+
+<li>Agriculture and food production</li>
+
+
+
+<li>Biotechnology and <a href="https://www.theforage.com/blog/careers/major-pharmaceuticals-good-career-path">pharmaceuticals</a></li>
+
+
+
+<li>Environmental and sustainability</li>
+</ul>
+
+
+
+<p>Your industry influences the types of programs and products you&#8217;ll work on.</p>
+
+
+
+<p>&#8220;Programmers in finance develop and maintain trading algorithms, risk analysis tools, and customer-facing applications, while those in health care focus on creating electronic health record systems, telemedicine platforms, and medical research tools,&#8221; says Darkazanli.&nbsp;</p>
+
+
+
+<p>&#8220;Automotive and aerospace industries rely on programmers to develop embedded systems, autonomous vehicle technology, and flight control software,&#8221; he continues. &#8220;In telecommunications, programmers contribute to the design of network infrastructure and communication protocols, while those in the entertainment sector create games, streaming services, and virtual reality experiences.&#8221;</p>
+
+
+
+<div class="wp-block-group forage__cta-pattern is-vertical is-content-justification-center is-layout-flex wp-container-4">
+<h2 class="has-text-align-center wp-block-heading">Find your career fit</h2>
+
+
+
+<p class="has-text-align-center">Discover if this is the right career path for you with a free Forage job simulation.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.theforage.com/course-catalog">Get started</a></div>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading" id="h-how-to-get-into-a-computer-programming-career">How to Get Into a Computer Programming Career</h2>
+
+
+
+<p>While employment growth for computer programmers is expected to decline 10% between 2021 and 2031, according to the <a href="https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm" target="_blank" rel="noreferrer noopener">Bureau of Labor Statistics</a> (BLS), there&#8217;s still demand. The BLS projects about 9,600 openings for computer programmers each year over the decade due to employees retiring or quitting their jobs.</p>
+
+
+
+<p>But what&#8217;s involved in breaking into this field? Training, education, and skills development are all ways to prepare yourself for a career in computer programming.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-education-and-training">Education and Training</h3>
+
+
+
+<p>&#8220;Education can be a simple three-month bootcamp or multiple years of a college education,&#8221; Darkazanli says. &#8220;The real key to success is aptitude. Your passion for solving complex problems and your curiosity to dig deep and understand how things work will determine how successful of a computer programmer you are.&#8221;&nbsp;</p>
+
+
+
+<p>The BLS reports that you typically need a bachelor&#8217;s degree to begin a computer programming career — for example, in computer science, <a href="https://www.theforage.com/blog/careers/what-is-software-engineering">software engineering</a>, or a related technical area. But having a formal degree isn&#8217;t a hard and fast requirement for every programming job. In many cases, other types of education and training can also help you launch a computer programming career.</p>
+
+
+
+<p>&#8220;Depending on your field, you may be able to replace a formal education with provable skills, internships, certificates, <a href="https://www.theforage.com/blog/skills/are-coding-bootcamps-worth-it">coding bootcamps</a>, relevant personal projects, and/or expertise that you can demonstrate using a tech stack that is common in your industry,&#8221; says Cameron Perrin, a <a href="https://www.theforage.com/blog/careers/software-engineer">software engineer</a> with expertise in programming and software development.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-skills-for-computer-programming">Skills for Computer Programming</h2>
+
+
+
+<p>Technical skills — or <a href="https://www.theforage.com/blog/basics/hard-skills">hard skills</a> — are critical components of computer programming positions.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Hard Skills</h3>
+
+
+
+<p>Perrin flags the following hard skills that computer programmers depend on the most.</p>
+
+
+
+<h4 class="wp-block-heading">Programming Languages</h4>
+
+
+
+<p>Proficiency in one or more programming languages, such as Java, Python, C++, JavaScript, or Ruby, is essential for computer programmers. After mastering these popular languages, you can explore other languages and frameworks that align with your interests and industry preferences as you gain more experience.&nbsp;</p>
+
+
+
+<p>Perrin emphasizes that which languages you need to learn depends on your target industry. &#8220;If you&#8217;re looking for a career in aerospace, then MATLAB, C++, and Python would be good choices, and for e-commerce you should focus more on JavaScript and its frameworks like React,&#8221; he says. &#8220;If you&#8217;re aiming to get into health care, then Python, R, and SQL would be helpful.&#8221;</p>
+
+
+
+<p><strong>&gt;&gt;MORE:</strong> <a href="https://www.theforage.com/blog/skills/sql-bootcamps">10 Best SQL Bootcamps for 2023</a></p>
+
+
+
+<h4 class="wp-block-heading">Data Structures and Algorithms</h4>
+
+
+
+<p>A strong foundation in data structures (arrays, linked lists, trees, and graphs) and algorithms (sorting, searching, and dynamic programming) helps programmers write efficient code and solve complex problems.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-web-development">Web Development</h4>
+
+
+
+<p>A grasp of front-end languages such as HTML, CSS, and JavaScript, plus a modern framework like React or Angular and back-end technologies like Node.js, Django, or Ruby on Rails, is necessary for developing robust web applications.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-mobile-app-development">Mobile App Development</h4>
+
+
+
+<p>Knowledge of mobile app development frameworks such as React Native, Flutter, and Swift — as well as platform-specific languages like Swift for iOS, Java, or Kotlin for Android — will enable you to create user-friendly applications for various devices.</p>
+
+
+
+<p><strong>&gt;&gt;MORE:</strong> Use your knowledge of application development to explore a career as an <a href="https://www.theforage.com/blog/careers/application-security-engineer">application security engineer</a>.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-databases">Databases</h4>
+
+
+
+<p>Programmers also need knowledge and practice with relational databases (like MySQL and PostgreSQL) and non-relational databases (like MongoDB and Cassandra), as well as database management systems to efficiently store, retrieve, and manage data in software applications.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-version-control-systems">Version Control Systems&nbsp;</h4>
+
+
+
+<p>Knowing how to use version control systems like Git, SVN, or Mercurial is critical to enabling you to effectively collaborate with other developers, track changes, and maintain the codebase.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-soft-skills">Soft Skills</h3>
+
+
+
+<p><a href="https://www.theforage.com/blog/basics/what-are-soft-skills-definition-and-examples">Soft skills</a> are also essential to long-term success in programming positions. &#8220;Computer programmers need to know how to communicate with each other in teams, as well as how to document their work in order to be effective in their jobs,&#8221; Oravec says. &#8220;They also need to know how to adapt very quickly to new versions of software, which requires knowing how to learn from crowdsourced social media information sources as well as industry-produced documentation and educational materials.&#8221;</p>
+
+
+
+<p>Some of the most important soft skills for computer programming careers include:</p>
+
+
+
+<ul>
+<li><a href="https://www.theforage.com/blog/skills/communication-skills">Communication</a></li>
+
+
+
+<li><a href="https://www.theforage.com/blog/skills/problem-solving-skills">Problem-solving</a></li>
+
+
+
+<li><a href="https://www.theforage.com/blog/skills/adaptability">Adaptability</a></li>
+
+
+
+<li>Teamwork abilities</li>
+
+
+
+<li><a href="https://www.theforage.com/blog/skills/time-management">Time management</a></li>
+
+
+
+<li><a href="https://www.theforage.com/blog/skills/attention-to-detail">Attention to detail</a></li>
+
+
+
+<li>Critical thinking</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-pros-and-cons-of-working-in-computer-programming">Pros and Cons of Working in Computer Programming</h2>
+
+
+
+<p>How do you know whether to choose computer programming as a career path? It helps to understand the positive and negative aspects of the job. According to experts in the field, here are some of the pros and cons of computer programming.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-pros-of-computer-programming">Pros of Computer Programming</h3>
+
+
+
+<h4 class="wp-block-heading">High Demand and Stable Jobs</h4>
+
+
+
+<p>Despite the field&#8217;s slight drop in projected employment growth, Perrin notes that the technology industry is growing all the time, and skilled computer programmers are in high demand in many different industries. &#8220;This demand translates to increased job stability and opportunities for career growth,&#8221; he says.</p>
+
+
+
+<h4 class="wp-block-heading">High-Income Potential</h4>
+
+
+
+<p>According to the BLS, professionals in this field can command high pay, with an average annual wage of <a href="https://www.bls.gov/oes/current/oes151251.htm" target="_blank" rel="noreferrer noopener">$93,000 per year</a>. &#8220;Computer programmers usually get good salaries and benefits packages that reflect how valuable their skills are on the job market,&#8221; Perrin says.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading" id="h-flexibility">Flexibility</h4>
+
+
+
+<p>According to Perrin, many programming jobs offer flexible hours and the chance to work from home in a <a href="https://www.theforage.com/blog/basics/what-is-remote-job">remote job</a>, which makes it easier to balance work and life.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-chance-to-work-in-a-wide-range-of-fields">Chance to Work in a Wide Range of Fields</h4>
+
+
+
+<p>The sky’s the limit once you&#8217;ve mastered computer programming skills since you can transfer these talents to other technology jobs. &#8220;Computer programming is a broad field that can lead to jobs in software development, <a href="https://www.theforage.com/blog/careers/web-development">web development</a>, mobile app development, <a href="https://www.theforage.com/blog/careers/data-analytics">data analysis</a>, <a href="https://www.theforage.com/blog/careers/what-is-artificial-intelligence">artificial intelligence</a>, and so much more,&#8221; Perrin says.</p>
+
+
+
+<p><strong>&gt;&gt;MORE:</strong> Explore a career in AI with <a href="https://www.theforage.com/virtual-internships/prototype/5N2ygyhzMWjKQmgCK/Cognizant-Artificial-Intelligence-Virtual-Experience-Program">Cognizant&#8217;s Artificial Intelligence</a> job simulation.</p>
+
+
+
+<h4 class="wp-block-heading" id="h-continuous-learning-and-creative-problem-solving">Continuous Learning and Creative Problem-Solving</h4>
+
+
+
+<p>Computer programmers are constantly learning new languages, technologies, and techniques. &#8220;This keeps the job interesting and ensures you are always growing,&#8221; Perrin says.</p>
+
+
+
+<p>And since programming involves solving complex problems and developing innovative solutions, programmers can enjoy a great sense of accomplishment.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-cons-of-computer-programming">Cons of Computer Programming</h3>
+
+
+
+<h4 class="wp-block-heading" id="h-long-hours">Long Hours&nbsp;</h4>
+
+
+
+<p>Programmers may sometimes have to work long hours or weekends to meet tight deadlines or resolve critical issues, which can lead to burnout and hurt their <a href="https://www.theforage.com/blog/basics/work-life-balance">work-life balance</a>. &#8220;You&#8217;re never off and you have to exercise very strong discipline to not take work with you home,&#8221; Darkazanli says.</p>
+
+
+
+<h4 class="wp-block-heading">Limited Social Interaction&nbsp;</h4>
+
+
+
+<p>While not true for every position or company, Perrin notes that programmers often work alone or in small groups, focusing on complex problems for long periods of time, which he says can make them feel alone and limit their social interactions. &#8220;Flexibility and working from home may socially isolate you as a programmer,&#8221; Darkazanli says.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading" id="h-lack-of-control-over-end-result">Lack of Control Over End Result</h4>
+
+
+
+<p>Computer programmers seldom have control over high-level decisions about how or whether their work will ultimately be used. It can feel demoralizing to work on a project with little possibility of success. For this reason, programmers must have pride in their work and not be dismayed if their entire efforts aren&#8217;t used.&nbsp;&nbsp;</p>
+
+
+
+<p>&#8220;The work a programmer slaved over for a month can be eliminated in a minute, or they can have a year’s worth of effort scrapped because of changes in a project that they had nothing to do with,&#8221; Oravec says. &#8220;Beautiful, structured coding efforts can never see the light of day, and for programmers to stay sane they must enjoy their efforts at coding.&#8221;</p>
+
+
+
+<h4 class="wp-block-heading" id="h-hard-for-managers-to-evaluate-your-work">Hard for Managers to Evaluate Your Work&nbsp;</h4>
+
+
+
+<p>Darkazanli points out that unless you work for a seasoned leader, it can be difficult for managers to evaluate the efforts and results of your computer programming work. &#8220;Sometimes, you can pull an overnighter to solve a very simple problem,&#8221; he says.</p>
+
+
+
+<p>&#8220;Unless your manager understands the stress you are under, it can make for<br>an unpleasant 1:1 meeting with your manager.&#8221;</p>
+
+
+
+<h4 class="wp-block-heading">Plateauing Salaries</h4>
+
+
+
+<p>According to Oravec, computer programming salaries may initially seem high but can plateau quickly. &#8220;A move into management is sometimes the only way to get substantial raises, unfortunately,&#8221; she says. &nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Retraining</h4>
+
+
+
+<p>Since new versions of software constantly emerge as technology evolves, computer programming can involve significant retraining to keep up to speed and stay relevant. &#8220;The amount of retraining that programmers need to do can be exciting and interesting at first, but over the years can wear people down,&#8221; Oravec says.&nbsp;</p>
+
+
+
+<p>As a result, she says many programmers eventually move into the roles of <a href="https://www.theforage.com/blog/careers/project-management">project management</a> or management as a way to stay in the computing profession without producing code regularly.&nbsp;&nbsp;</p>
+
+
+
+<p>Ready to explore a variety of technology careers? Experience what it&#8217;s like to work at a top company with <a href="https://www.theforage.com/course-catalog/Tech">Forage&#8217;s free tech job simulations</a>.</p>
+
+
+
+<p><em>Image credit: REDPIXEL / Depositphotos.com</em></p>
+
+		
+			<div class="forage-author-preview">
+		<div class="forage-author-preview__top">
+			<img alt='Robin Madell' src="https://www.theforage.com/blog/wp-content/uploads/2022/10/Madell-photo-96x96.jpg" srcset='https://theforage.wpengine.com/wp-content/uploads/2022/10/Madell-photo-192x188.jpg 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' decoding='async' />			<div class="forage-author-preview__attributes">
+				<div class="forage-author-preview__by">
+					Written by				</div>
+				<div class="forage-author-preview__name">
+					
+		<span itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">
+			<a href="https://www.theforage.com/blog/author/robin-madell" title="View all posts by Robin Madell" itemprop="url">
+				<span itemprop="name">
+					Robin Madell				</span>
+									<span class="arrow">&rarr;</span>
+							</a>
+		</span>
+						</div>
+				<div class="forage-author-preview__title">
+									</div>
+			</div>
+			<a class="forage-author-preview__link" href="https://www.theforage.com/blog/author/robin-madell" title="Read more from Robin Madell">
+				Read more from Robin Madell			</a>
+		</div>
+					<div class="forage-author-preview__bottom">
+				Robin Madell has spent over two decades as a corporate writer, business journalist, and communications consultant in New York, San Francisco, and Los Angeles.			</div>
+			</div>
+	
+			</div><!-- .entry-content .clear -->
+</div>
+
+	
+</article><!-- #post-## -->
+
+
+	        <nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+	                <span class="screen-reader-text">Post navigation</span>
+	                <div class="nav-links"><div class="nav-previous"><a href="https://www.theforage.com/blog/skills/what-is-research" rel="prev"><span class="ast-left-arrow">&larr;</span> Previous Post</a></div><div class="nav-next"><a href="https://www.theforage.com/blog/careers/qa-analyst" rel="next">Next Post <span class="ast-right-arrow">&rarr;</span></a></div></div>
+	        </nav><div class="ast-single-related-posts-container"><div class="ast-related-posts-title-section"> <h2 class="ast-related-posts-title"> Related Posts </h2> </div><div class="ast-related-posts-wrapper">						<article class="ast-related-post post-4817 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/private-equity-vs-investment-banking" target="_self" rel="bookmark noopener noreferrer">Private Equity vs. Investment Banking: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+											<article class="ast-related-post post-4738 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/cfa-vs-cpa" target="_self" rel="bookmark noopener noreferrer">CFA vs. CPA: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+											<article class="ast-related-post post-4707 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/financial-analyst-vs-accountant-whats-the-difference" target="_self" rel="bookmark noopener noreferrer">Financial Analyst vs. Accountant: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+					</div> </div>			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+	<div class="sidebar-main" >
+		
+		<div class="wp-block-genesis-blocks-gb-sharing gb-block-sharing gb-share-icon-only gb-share-shape-circular gb-share-size-medium gb-share-color-social ">
+			<ul class="gb-share-list"><li>
+			<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('http://twitter.com/share?text=What%20Is%20Computer%20Programming?&#038;url=https://www.theforage.com/blog/careers/what-is-computer-programming', 'Share on Twitter', '600', '600')" class="gb-share-twitter" title="Share on Twitter">
+				<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-twitter-64b621a9b9ba6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title id="gb-link-twitter-64b621a9b9ba6">Share on Twitter</title><path fill="#fff" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"></path></svg> <span class="gb-social-text">Share on Twitter</span>
+			</a>
+		</li><li>
+				<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('https://www.facebook.com/sharer/sharer.php?u=https://www.theforage.com/blog/careers/what-is-computer-programming&#038;title=What%20Is%20Computer%20Programming?', 'Share on Facebook', '600', '600')" class="gb-share-facebook" title="Share on Facebook">
+					<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-facebook-64b621a9b9ba6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title id="gb-link-facebook-64b621a9b9ba6">Share on Facebook</title><path fill="#fff" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path></svg> <span class="gb-social-text">Share on Facebook</span>
+				</a>
+			</li><li>
+				<a href="javascript:void(0)" onClick="javascript:genesisBlocksShare('https://www.linkedin.com/shareArticle?mini=true&#038;url=https://www.theforage.com/blog/careers/what-is-computer-programming&#038;title=What%20Is%20Computer%20Programming?', 'Share on LinkedIn', '600', '600')" class="gb-share-linkedin" title="Share on LinkedIn">
+					<svg class="svg-icon" role="img" focusable="false" aria-labelledby="gb-link-linkedin-64b621a9b9ba6" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title id="gb-link-linkedin-64b621a9b9ba6">Share on LinkedIn</title><path fill="#fff" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path></svg> <span class="gb-social-text">Share on LinkedIn</span>
+				</a>
+			</li></ul>
+		</div><div class="ast-single-related-posts-container"><div class="ast-related-posts-title-section"> <h2 class="ast-related-posts-title"> Related Posts </h2> </div><div class="ast-related-posts-wrapper">						<article class="ast-related-post post-4817 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/private-equity-vs-investment-banking" target="_self" rel="bookmark noopener noreferrer">Private Equity vs. Investment Banking: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+											<article class="ast-related-post post-4738 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/cfa-vs-cpa" target="_self" rel="bookmark noopener noreferrer">CFA vs. CPA: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+											<article class="ast-related-post post-4707 post type-post status-publish format-standard has-post-thumbnail hentry category-careers ast-article-single">
+							<div class="ast-related-posts-inner-section">
+								<div class="ast-related-post-content">
+																							<header class="entry-header related-entry-header">
+																	<h3 class="ast-related-post-title entry-title">
+				<a href="https://www.theforage.com/blog/careers/financial-analyst-vs-accountant-whats-the-difference" target="_self" rel="bookmark noopener noreferrer">Financial Analyst vs. Accountant: What&#8217;s the Difference?</a>
+			</h3>
+																</header>
+																						<div class="entry-content clear">
+																			</div>
+								</div>
+							</div>
+						</article>
+					</div> </div>	<div class="forage-like">
+		<h3 class="forage-like__title sidebar-title">
+			Was this article helpful?		</h3>
+				<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="Like Button"
+					data-ulike-id="3380"
+					data-ulike-nonce="0f67f03243"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_text wp_post_btn_3380"><span>Yes</span>				</button></div></div>
+		</div>
+
+	</div><!-- .sidebar-main -->
+</div><!-- #secondary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright &copy; 2023 Forage | Forage</p>
+</div>			</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+	<script type="text/javascript">
+		function genesisBlocksShare( url, title, w, h ){
+			var left = ( window.innerWidth / 2 )-( w / 2 );
+			var top  = ( window.innerHeight / 2 )-( h / 2 );
+			return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+		}
+	</script>
+	<style id='core-block-supports-inline-css'>
+.wp-container-4.wp-container-4{flex-direction:column;align-items:center;}
+</style>
+<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":""};
+</script>
+<script src='https://theforage.wpengine.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2' id='astra-theme-js-js'></script>
+<script id='wp_ulike-js-extra'>
+var wp_ulike_params = {"ajax_url":"https:\/\/theforage.wpengine.com\/wp-admin\/admin-ajax.php","notifications":"0"};
+</script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/wp-ulike/assets/js/wp-ulike.min.js?ver=4.6.7' id='wp_ulike-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/public-scripts.js?ver=2.0.3' id='forage-core-public-js'></script>
+<script src='https://theforage.wpengine.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/forage-core/build/public-post-scripts.js?ver=2.0.3' id='forage-core-public-post-js'></script>
+<script src='https://theforage.wpengine.com/wp-content/plugins/genesis-blocks/dist/assets/js/dismiss.js?ver=1685776409' id='genesis-blocks-dismiss-js-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				</body>
+</html>
